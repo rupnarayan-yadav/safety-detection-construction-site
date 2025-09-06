@@ -1,0 +1,902 @@
+timestamp,violation,alert_sent,snapshot,clip
+2025-08-24T01:24:24.175178,NO_HELMET,1,snapshots/NO_HELMET_20250824_012424.jpg,clips/NO_HELMET_20250824_012424.avi
+2025-08-24T01:24:24.349241,NO_MASK,0,,clips/NO_MASK_20250824_012424.avi
+2025-08-24T01:24:24.439948,NO_MASK,0,,clips/NO_MASK_20250824_012424.avi
+2025-08-24T01:24:24.527034,NO_MASK,0,,clips/NO_MASK_20250824_012424.avi
+2025-08-24T01:24:24.650476,NO_MASK,0,,clips/NO_MASK_20250824_012424.avi
+2025-08-24T01:24:24.792615,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250824_012424.avi
+2025-08-24T01:24:24.933751,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250824_012424.avi
+2025-08-24T01:24:25.082176,NO_MASK,0,,clips/NO_MASK_20250824_012425.avi
+2025-08-24T01:24:25.199527,NO_MASK,0,,clips/NO_MASK_20250824_012425.avi
+2025-08-24T01:24:25.313712,NO_MASK,0,,clips/NO_MASK_20250824_012425.avi
+2025-08-24T01:24:25.444956,NO_MASK,0,,clips/NO_MASK_20250824_012425.avi
+2025-08-24T01:24:25.574557,NO_MASK,0,,clips/NO_MASK_20250824_012425.avi
+2025-08-24T01:24:25.664984,NO_HELMET,0,,clips/NO_HELMET_20250824_012425.avi
+2025-08-24T01:24:25.751171,NO_MASK,0,,clips/NO_MASK_20250824_012425.avi
+2025-08-24T01:24:25.847535,NO_MASK,0,,clips/NO_MASK_20250824_012425.avi
+2025-08-24T01:24:25.951704,NO_MASK,0,,clips/NO_MASK_20250824_012425.avi
+2025-08-24T01:24:26.052574,NO_MASK,0,,clips/NO_MASK_20250824_012426.avi
+2025-08-24T01:24:26.146884,NO_MASK,0,,clips/NO_MASK_20250824_012426.avi
+2025-08-24T01:24:26.241449,NO_MASK,0,,clips/NO_MASK_20250824_012426.avi
+2025-08-24T01:24:26.330822,NO_MASK,0,,clips/NO_MASK_20250824_012426.avi
+2025-08-24T01:24:26.414684,NO_MASK,0,,clips/NO_MASK_20250824_012426.avi
+2025-08-24T01:24:26.507864,NO_MASK,0,,clips/NO_MASK_20250824_012426.avi
+2025-08-24T01:24:26.597420,NO_MASK,0,,clips/NO_MASK_20250824_012426.avi
+2025-08-24T01:24:26.700338,NO_MASK,0,,clips/NO_MASK_20250824_012426.avi
+2025-08-24T01:24:26.814247,NO_MASK,0,,clips/NO_MASK_20250824_012426.avi
+2025-08-24T01:24:26.900274,NO_MASK,0,,clips/NO_MASK_20250824_012426.avi
+2025-08-24T01:24:26.987058,NO_MASK,0,,clips/NO_MASK_20250824_012426.avi
+2025-08-24T01:24:27.090057,NO_MASK,0,,clips/NO_MASK_20250824_012427.avi
+2025-08-24T01:24:27.192880,NO_MASK,0,,clips/NO_MASK_20250824_012427.avi
+2025-08-24T01:24:27.293950,NO_HELMET,0,,clips/NO_HELMET_20250824_012427.avi
+2025-08-24T01:24:27.389581,NO_HELMET,0,,clips/NO_HELMET_20250824_012427.avi
+2025-08-24T01:24:27.480304,NO_HELMET,0,,clips/NO_HELMET_20250824_012427.avi
+2025-08-24T01:24:27.574705,NO_MASK,0,,clips/NO_MASK_20250824_012427.avi
+2025-08-24T01:24:27.671936,NO_HELMET,0,,clips/NO_HELMET_20250824_012427.avi
+2025-08-24T01:24:27.763076,NO_MASK,0,,clips/NO_MASK_20250824_012427.avi
+2025-08-24T01:24:27.860320,NO_MASK,0,,clips/NO_MASK_20250824_012427.avi
+2025-08-24T01:24:27.959147,NO_MASK,0,,clips/NO_MASK_20250824_012427.avi
+2025-08-24T01:24:28.065820,NO_HELMET,0,,clips/NO_HELMET_20250824_012428.avi
+2025-08-24T01:24:28.155823,NO_HELMET,0,,clips/NO_HELMET_20250824_012428.avi
+2025-08-24T01:24:28.287250,NO_MASK,0,,clips/NO_MASK_20250824_012428.avi
+2025-08-24T01:24:28.388227,NO_MASK,0,,clips/NO_MASK_20250824_012428.avi
+2025-08-24T01:24:28.499410,NO_MASK,0,,clips/NO_MASK_20250824_012428.avi
+2025-08-24T01:24:28.603855,NO_HELMET,0,,clips/NO_HELMET_20250824_012428.avi
+2025-08-24T01:24:28.699036,NO_MASK,0,,clips/NO_MASK_20250824_012428.avi
+2025-08-24T01:24:28.790902,NO_HELMET,0,,clips/NO_HELMET_20250824_012428.avi
+2025-08-24T01:24:28.894820,NO_HELMET,0,,clips/NO_HELMET_20250824_012428.avi
+2025-08-24T01:24:28.983567,NO_MASK,0,,clips/NO_MASK_20250824_012428.avi
+2025-08-24T01:24:29.083016,NO_MASK,0,,clips/NO_MASK_20250824_012429.avi
+2025-08-24T01:24:29.186762,NO_MASK,0,,clips/NO_MASK_20250824_012429.avi
+2025-08-24T01:24:29.279327,NO_MASK,0,,clips/NO_MASK_20250824_012429.avi
+2025-08-24T01:24:29.369852,NO_MASK,0,,clips/NO_MASK_20250824_012429.avi
+2025-08-24T01:24:29.467186,NO_MASK,0,,clips/NO_MASK_20250824_012429.avi
+2025-08-24T01:24:29.620559,NO_MASK,0,,clips/NO_MASK_20250824_012429.avi
+2025-08-24T01:24:29.725077,NO_MASK,0,,clips/NO_MASK_20250824_012429.avi
+2025-08-24T01:24:29.824974,NO_MASK,0,,clips/NO_MASK_20250824_012429.avi
+2025-08-24T01:24:29.951067,NO_MASK,0,,clips/NO_MASK_20250824_012429.avi
+2025-08-24T01:24:30.070191,NO_MASK,0,,clips/NO_MASK_20250824_012430.avi
+2025-08-24T01:24:30.231129,NO_MASK,0,,clips/NO_MASK_20250824_012430.avi
+2025-08-24T01:24:30.337541,NO_MASK,0,,clips/NO_MASK_20250824_012430.avi
+2025-08-24T01:24:30.441223,NO_MASK,0,,clips/NO_MASK_20250824_012430.avi
+2025-08-24T01:24:30.540477,NO_MASK,0,,clips/NO_MASK_20250824_012430.avi
+2025-08-24T01:24:30.677727,NO_MASK,0,,clips/NO_MASK_20250824_012430.avi
+2025-08-24T01:24:30.805516,NO_MASK,0,,clips/NO_MASK_20250824_012430.avi
+2025-08-24T01:24:30.911141,NO_MASK,0,,clips/NO_MASK_20250824_012430.avi
+2025-08-24T01:24:31.027857,NO_MASK,0,,clips/NO_MASK_20250824_012431.avi
+2025-08-24T01:24:31.147541,NO_MASK,0,,clips/NO_MASK_20250824_012431.avi
+2025-08-24T01:24:31.243959,NO_HELMET,0,,clips/NO_HELMET_20250824_012431.avi
+2025-08-24T01:24:31.376046,NO_HELMET,0,,clips/NO_HELMET_20250824_012431.avi
+2025-08-24T01:24:31.495785,NO_MASK,0,,clips/NO_MASK_20250824_012431.avi
+2025-08-24T01:24:31.602733,NO_MASK,0,,clips/NO_MASK_20250824_012431.avi
+2025-08-24T01:24:31.756895,NO_MASK,0,,clips/NO_MASK_20250824_012431.avi
+2025-08-24T01:24:31.872719,NO_MASK,0,,clips/NO_MASK_20250824_012431.avi
+2025-08-24T01:24:31.985943,NO_HELMET,0,,clips/NO_HELMET_20250824_012431.avi
+2025-08-24T01:24:32.099216,NO_MASK,0,,clips/NO_MASK_20250824_012432.avi
+2025-08-24T01:24:32.202906,NO_MASK,0,,clips/NO_MASK_20250824_012432.avi
+2025-08-24T01:24:32.299287,NO_MASK,0,,clips/NO_MASK_20250824_012432.avi
+2025-08-24T01:24:32.395532,NO_MASK,0,,clips/NO_MASK_20250824_012432.avi
+2025-08-24T01:24:32.531984,NO_MASK,0,,clips/NO_MASK_20250824_012432.avi
+2025-08-24T01:24:32.651501,NO_MASK,0,,clips/NO_MASK_20250824_012432.avi
+2025-08-24T01:24:32.762699,NO_MASK,0,,clips/NO_MASK_20250824_012432.avi
+2025-08-24T01:24:32.874661,NO_MASK,0,,clips/NO_MASK_20250824_012432.avi
+2025-08-24T01:24:32.988665,NO_MASK,0,,clips/NO_MASK_20250824_012432.avi
+2025-08-24T01:24:33.116214,NO_MASK,0,,clips/NO_MASK_20250824_012433.avi
+2025-08-24T01:24:33.246036,NO_MASK,0,,clips/NO_MASK_20250824_012433.avi
+2025-08-24T01:24:33.362628,NO_MASK,0,,clips/NO_MASK_20250824_012433.avi
+2025-08-24T01:24:33.523000,NO_MASK,0,,clips/NO_MASK_20250824_012433.avi
+2025-08-24T01:24:33.658880,NO_HELMET,0,,clips/NO_HELMET_20250824_012433.avi
+2025-08-24T01:24:33.777744,NO_MASK,0,,clips/NO_MASK_20250824_012433.avi
+2025-08-24T01:24:33.889008,NO_HELMET,0,,clips/NO_HELMET_20250824_012433.avi
+2025-08-24T01:24:34.072785,NO_HELMET,0,,clips/NO_HELMET_20250824_012434.avi
+2025-08-24T01:24:34.214653,NO_MASK,0,,clips/NO_MASK_20250824_012434.avi
+2025-08-24T01:24:34.312969,NO_MASK,0,,clips/NO_MASK_20250824_012434.avi
+2025-08-24T01:24:34.408332,NO_MASK,0,,clips/NO_MASK_20250824_012434.avi
+2025-08-24T01:24:34.519381,NO_MASK,0,,clips/NO_MASK_20250824_012434.avi
+2025-08-24T01:24:34.628683,NO_HELMET,0,,clips/NO_HELMET_20250824_012434.avi
+2025-08-24T01:24:34.763849,NO_HELMET,0,,clips/NO_HELMET_20250824_012434.avi
+2025-08-24T01:24:34.910197,NO_HELMET,0,,clips/NO_HELMET_20250824_012434.avi
+2025-08-24T01:24:35.029758,NO_HELMET,0,,clips/NO_HELMET_20250824_012435.avi
+2025-08-24T01:24:35.191632,NO_MASK,0,,clips/NO_MASK_20250824_012435.avi
+2025-08-24T01:24:35.344253,NO_HELMET,0,,clips/NO_HELMET_20250824_012435.avi
+2025-08-24T01:24:35.478928,NO_HELMET,0,,clips/NO_HELMET_20250824_012435.avi
+2025-08-24T01:24:35.592455,NO_MASK,0,,clips/NO_MASK_20250824_012435.avi
+2025-08-24T01:24:35.716456,NO_MASK,0,,clips/NO_MASK_20250824_012435.avi
+2025-08-24T01:24:35.859980,NO_MASK,0,,clips/NO_MASK_20250824_012435.avi
+2025-08-24T01:24:36.012613,NO_MASK,0,,clips/NO_MASK_20250824_012436.avi
+2025-08-24T01:24:36.163122,NO_MASK,0,,clips/NO_MASK_20250824_012436.avi
+2025-08-24T01:24:36.364587,NO_MASK,0,,clips/NO_MASK_20250824_012436.avi
+2025-08-24T01:24:36.517278,NO_MASK,0,,clips/NO_MASK_20250824_012436.avi
+2025-08-24T01:24:36.663612,NO_MASK,0,,clips/NO_MASK_20250824_012436.avi
+2025-08-24T01:24:36.814204,NO_MASK,0,,clips/NO_MASK_20250824_012436.avi
+2025-08-24T01:24:37.004834,NO_MASK,0,,clips/NO_MASK_20250824_012437.avi
+2025-08-24T01:24:37.152662,NO_MASK,0,,clips/NO_MASK_20250824_012437.avi
+2025-08-24T01:24:37.305294,NO_MASK,0,,clips/NO_MASK_20250824_012437.avi
+2025-08-24T01:24:37.462001,NO_MASK,0,,clips/NO_MASK_20250824_012437.avi
+2025-08-24T01:24:37.657860,NO_MASK,0,,clips/NO_MASK_20250824_012437.avi
+2025-08-24T01:24:37.823242,NO_MASK,0,,clips/NO_MASK_20250824_012437.avi
+2025-08-24T01:24:38.003840,NO_MASK,0,,clips/NO_MASK_20250824_012438.avi
+2025-08-24T01:24:38.142047,NO_MASK,0,,clips/NO_MASK_20250824_012438.avi
+2025-08-24T01:24:38.308482,NO_MASK,0,,clips/NO_MASK_20250824_012438.avi
+2025-08-24T01:24:38.463070,NO_MASK,0,,clips/NO_MASK_20250824_012438.avi
+2025-08-24T01:24:38.633237,NO_MASK,0,,clips/NO_MASK_20250824_012438.avi
+2025-08-24T01:24:38.822758,NO_MASK,0,,clips/NO_MASK_20250824_012438.avi
+2025-08-24T01:24:38.984222,NO_MASK,0,,clips/NO_MASK_20250824_012438.avi
+2025-08-24T01:24:39.139341,NO_MASK,0,,clips/NO_MASK_20250824_012439.avi
+2025-08-24T01:24:39.272402,NO_MASK,0,,clips/NO_MASK_20250824_012439.avi
+2025-08-24T01:24:39.435894,NO_MASK,0,,clips/NO_MASK_20250824_012439.avi
+2025-08-24T01:24:39.608813,NO_MASK,0,,clips/NO_MASK_20250824_012439.avi
+2025-08-24T01:24:39.771061,NO_MASK,0,,clips/NO_MASK_20250824_012439.avi
+2025-08-24T01:24:39.955885,NO_MASK,0,,clips/NO_MASK_20250824_012439.avi
+2025-08-24T01:24:40.138800,NO_MASK,0,,clips/NO_MASK_20250824_012440.avi
+2025-08-24T01:24:40.327870,NO_MASK,0,,clips/NO_MASK_20250824_012440.avi
+2025-08-24T01:24:40.488749,NO_MASK,0,,clips/NO_MASK_20250824_012440.avi
+2025-08-24T01:24:40.641076,NO_MASK,0,,clips/NO_MASK_20250824_012440.avi
+2025-08-24T01:24:40.789158,NO_MASK,0,,clips/NO_MASK_20250824_012440.avi
+2025-08-24T01:24:40.982676,NO_MASK,0,,clips/NO_MASK_20250824_012440.avi
+2025-08-24T01:24:41.157142,NO_MASK,0,,clips/NO_MASK_20250824_012441.avi
+2025-08-24T01:24:41.325202,NO_MASK,0,,clips/NO_MASK_20250824_012441.avi
+2025-08-24T01:24:41.479196,NO_MASK,0,,clips/NO_MASK_20250824_012441.avi
+2025-08-24T01:24:41.625876,NO_MASK,0,,clips/NO_MASK_20250824_012441.avi
+2025-08-24T01:24:41.783090,NO_MASK,0,,clips/NO_MASK_20250824_012441.avi
+2025-08-24T01:24:41.932136,NO_MASK,0,,clips/NO_MASK_20250824_012441.avi
+2025-08-24T01:24:42.088204,NO_MASK,0,,clips/NO_MASK_20250824_012442.avi
+2025-08-24T01:24:42.231838,NO_MASK,0,,clips/NO_MASK_20250824_012442.avi
+2025-08-24T01:24:42.420415,NO_MASK,0,,clips/NO_MASK_20250824_012442.avi
+2025-08-24T01:24:42.641522,NO_MASK,0,,clips/NO_MASK_20250824_012442.avi
+2025-08-24T01:24:42.837112,NO_MASK,0,,clips/NO_MASK_20250824_012442.avi
+2025-08-24T01:24:43.004940,NO_MASK,0,,clips/NO_MASK_20250824_012443.avi
+2025-08-24T01:24:43.203757,NO_MASK,0,,clips/NO_MASK_20250824_012443.avi
+2025-08-24T01:24:43.376732,NO_MASK,0,,clips/NO_MASK_20250824_012443.avi
+2025-08-24T01:24:43.542364,NO_MASK,0,,clips/NO_MASK_20250824_012443.avi
+2025-08-24T01:24:43.705642,NO_MASK,0,,clips/NO_MASK_20250824_012443.avi
+2025-08-24T01:24:43.884740,NO_MASK,0,,clips/NO_MASK_20250824_012443.avi
+2025-08-24T01:24:44.079941,NO_MASK,0,,clips/NO_MASK_20250824_012444.avi
+2025-08-24T01:24:44.292919,NO_MASK,0,,clips/NO_MASK_20250824_012444.avi
+2025-08-24T01:24:44.479445,NO_MASK,0,,clips/NO_MASK_20250824_012444.avi
+2025-08-24T01:24:44.638929,NO_MASK,0,,clips/NO_MASK_20250824_012444.avi
+2025-08-24T01:24:44.782753,NO_MASK,0,,clips/NO_MASK_20250824_012444.avi
+2025-08-24T01:24:44.994883,NO_MASK,0,,clips/NO_MASK_20250824_012444.avi
+2025-08-24T01:24:45.162247,NO_MASK,0,,clips/NO_MASK_20250824_012445.avi
+2025-08-24T01:24:45.335426,NO_MASK,0,,clips/NO_MASK_20250824_012445.avi
+2025-08-24T01:24:45.539709,NO_MASK,0,,clips/NO_MASK_20250824_012445.avi
+2025-08-24T01:24:45.717471,NO_MASK,0,,clips/NO_MASK_20250824_012445.avi
+2025-08-24T01:24:45.862729,NO_MASK,0,,clips/NO_MASK_20250824_012445.avi
+2025-08-24T01:24:46.045381,NO_MASK,0,,clips/NO_MASK_20250824_012446.avi
+2025-08-24T01:24:46.233295,NO_MASK,0,,clips/NO_MASK_20250824_012446.avi
+2025-08-24T01:24:46.401656,NO_MASK,0,,clips/NO_MASK_20250824_012446.avi
+2025-08-24T01:24:46.582183,NO_MASK,0,,clips/NO_MASK_20250824_012446.avi
+2025-08-24T01:24:46.815511,NO_MASK,0,,clips/NO_MASK_20250824_012446.avi
+2025-08-24T01:24:47.010764,NO_MASK,0,,clips/NO_MASK_20250824_012447.avi
+2025-08-24T01:24:47.189560,NO_MASK,0,,clips/NO_MASK_20250824_012447.avi
+2025-08-24T01:24:47.366791,NO_MASK,0,,clips/NO_MASK_20250824_012447.avi
+2025-08-24T01:24:47.560654,NO_MASK,0,,clips/NO_MASK_20250824_012447.avi
+2025-08-24T01:24:47.743788,NO_MASK,0,,clips/NO_MASK_20250824_012447.avi
+2025-08-24T01:24:47.961006,NO_MASK,0,,clips/NO_MASK_20250824_012447.avi
+2025-08-24T01:24:48.121745,NO_MASK,0,,clips/NO_MASK_20250824_012448.avi
+2025-08-24T01:24:48.293099,NO_MASK,0,,clips/NO_MASK_20250824_012448.avi
+2025-08-24T01:24:48.453608,NO_MASK,0,,clips/NO_MASK_20250824_012448.avi
+2025-08-24T01:24:48.616984,NO_MASK,0,,clips/NO_MASK_20250824_012448.avi
+2025-08-24T01:24:48.768950,NO_MASK,0,,clips/NO_MASK_20250824_012448.avi
+2025-08-24T01:24:48.938444,NO_MASK,0,,clips/NO_MASK_20250824_012448.avi
+2025-08-24T01:24:49.135380,NO_MASK,0,,clips/NO_MASK_20250824_012449.avi
+2025-08-24T01:24:49.320981,NO_MASK,0,,clips/NO_MASK_20250824_012449.avi
+2025-08-24T01:24:49.505046,NO_MASK,0,,clips/NO_MASK_20250824_012449.avi
+2025-08-24T01:24:49.693680,NO_MASK,0,,clips/NO_MASK_20250824_012449.avi
+2025-08-24T01:24:49.892458,NO_MASK,0,,clips/NO_MASK_20250824_012449.avi
+2025-08-24T01:24:50.112654,NO_MASK,0,,clips/NO_MASK_20250824_012450.avi
+2025-08-24T01:24:50.309225,NO_MASK,0,,clips/NO_MASK_20250824_012450.avi
+2025-08-27T12:19:41.090763,NO_MASK,1,snapshots/NO_MASK_20250827_121934.jpg,clips/NO_MASK_20250827_121938.avi,[],a man with a beard and a shirt on,J
+2025-08-27T12:19:43.685210,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_121941.avi,,a man is standing in a room with a camera,
+2025-08-27T12:19:46.080267,NO_MASK,0,,clips/NO_MASK_20250827_121943.avi,,a man in a blue shirt is standing in a room,
+2025-08-27T12:19:48.239134,NO_MASK,0,,clips/NO_MASK_20250827_121946.avi,,a man is standing in front of a window,
+2025-08-27T12:19:50.284362,NO_MASK,0,,clips/NO_MASK_20250827_121948.avi,,a man standing in front of a window,
+2025-08-27T12:19:52.558968,NO_MASK,0,,clips/NO_MASK_20250827_121950.avi,,a man with a beard standing in front of a window,Dey
+2025-08-27T12:19:54.969048,NO_MASK,0,,clips/NO_MASK_20250827_121952.avi,,a man with a beard standing in front of a window,WY) xy)
+2025-08-27T12:19:57.051241,NO_HELMET,0,,clips/NO_HELMET_20250827_121955.avi,,a man with a beard and a blue shirt,W jase) )
+2025-08-27T12:19:59.330511,NO_HELMET,0,,clips/NO_HELMET_20250827_121957.avi,,a man with a beard standing in front of a window,Dy
+2025-08-27T12:20:01.566200,NO_MASK,0,,clips/NO_MASK_20250827_121959.avi,,a man with a beard standing in front of a window,
+2025-08-27T12:20:03.735772,NO_MASK,0,,clips/NO_MASK_20250827_122001.avi,,a man with a beard standing in front of a window,Viow
+2025-08-27T12:20:06.080901,NO_HELMET,0,,clips/NO_HELMET_20250827_122003.avi,,a man with a beard standing in front of a window,Uy)
+2025-08-27T12:20:11.247885,NO_HELMET,1,snapshots/NO_HELMET_20250827_122006.jpg,clips/NO_HELMET_20250827_122008.avi,[],a man with a beard standing in front of a window,Py
+2025-08-27T12:20:13.473983,NO_HELMET,0,,clips/NO_HELMET_20250827_122011.avi,,a man with a beard and a blue shirt,Dy
+2025-08-27T12:20:15.835573,NO_HELMET,0,,clips/NO_HELMET_20250827_122013.avi,,a man with a beard standing in front of a window,IrY
+2025-08-27T12:20:18.248480,NO_HELMET,0,,clips/NO_HELMET_20250827_122015.avi,,a man with a beard standing in front of a window,iow }
+2025-08-27T12:20:21.076635,NO_HELMET,0,,clips/NO_HELMET_20250827_122018.avi,,a man with a beard standing in front of a window,pay
+2025-08-27T12:20:23.820689,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_122021.avi,,a man with a beard and a blue shirt,Py
+2025-08-27T12:20:26.466169,NO_HELMET,0,,clips/NO_HELMET_20250827_122023.avi,,a man with a beard standing in front of a window,Pry
+2025-08-27T12:20:29.122924,NO_HELMET,0,,clips/NO_HELMET_20250827_122026.avi,,a man with a beard and a black shirt,
+2025-08-27T12:20:31.786268,NO_HELMET,0,,clips/NO_HELMET_20250827_122029.avi,,a man standing in front of a window,
+2025-08-27T12:20:34.231662,NO_MASK,0,,clips/NO_MASK_20250827_122031.avi,,a man is standing in front of a window,"aw,"
+2025-08-27T12:20:37.062761,NO_MASK,0,,clips/NO_MASK_20250827_122034.avi,,a man in a tank top standing in front of a window,PY
+2025-08-27T12:20:43.033067,NO_MASK,1,snapshots/NO_MASK_20250827_122037.jpg,clips/NO_MASK_20250827_122040.avi,['Unknown'],a man in a tank top standing in a room,Wi }
+2025-08-27T12:20:45.622293,NO_MASK,0,,clips/NO_MASK_20250827_122043.avi,,a man in a tank top standing in a room,Py
+2025-08-27T12:20:48.342912,NO_MASK,0,,clips/NO_MASK_20250827_122045.avi,,a man with a beard standing in front of a window,U9)
+2025-08-27T12:20:51.192252,NO_MASK,0,,clips/NO_MASK_20250827_122048.avi,,a man with a beard standing in front of a window,Vag)
+2025-08-27T12:20:54.225380,NO_MASK,0,,clips/NO_MASK_20250827_122051.avi,,a man with a beard standing in front of a window,
+2025-08-27T12:20:56.894073,NO_MASK,0,,clips/NO_MASK_20250827_122054.avi,,a man standing in a room with a ceiling fan,
+2025-08-27T12:47:19.670401,NO_MASK,0,snapshots/NO_MASK_20250827_124710.jpg,clips/NO_MASK_20250827_124710.avi,['Unknown'],a man with a beard and a black tank top,
+2025-08-27T12:47:25.864712,NO_MASK,0,snapshots/NO_MASK_20250827_124720.jpg,clips/NO_MASK_20250827_124720.avi,[],a man with a beard and a black tank top,
+2025-08-27T12:47:32.234349,NO_MASK,0,snapshots/NO_MASK_20250827_124725.jpg,clips/NO_MASK_20250827_124725.avi,['Unknown'],a man with a beard and a black tank top,
+2025-08-27T12:52:46.864070,NO_MASK,0,snapshots/NO_MASK_20250827_125241.jpg,clips/NO_MASK_20250827_125241.avi,[],a man with a beard and a black tank top,
+2025-08-27T12:52:51.303233,NO_MASK,0,snapshots/NO_MASK_20250827_125247.jpg,clips/NO_MASK_20250827_125247.avi,['Unknown'],a man with a beard and a black shirt,
+2025-08-27T12:52:55.435625,NO_MASK,0,snapshots/NO_MASK_20250827_125251.jpg,clips/NO_MASK_20250827_125251.avi,['Unknown'],a man with a beard and a black tank top,
+2025-08-27T12:52:59.696317,NO_MASK,0,snapshots/NO_MASK_20250827_125255.jpg,clips/NO_MASK_20250827_125255.avi,['Unknown'],a man with a beard and a black tank top,
+2025-08-27T12:53:03.883800,NO_MASK,0,snapshots/NO_MASK_20250827_125259.jpg,clips/NO_MASK_20250827_125259.avi,['Unknown'],a man with a beard and a black tank top,
+2025-08-27T12:53:08.077960,NO_MASK,0,snapshots/NO_MASK_20250827_125303.jpg,clips/NO_MASK_20250827_125303.avi,['Unknown'],a man with a beard and a black tank top,
+2025-08-27T14:54:52.459282,NO_MASK,0,snapshots/NO_MASK_20250827_145440.jpg,clips/NO_MASK_20250827_145440.avi,[],a man is talking on his cell phone,
+2025-08-27T14:54:58.712049,NO_HELMET,0,snapshots/NO_HELMET_20250827_145452.jpg,clips/NO_HELMET_20250827_145452.avi,[],a man with a beard and a blue shirt,
+2025-08-27T14:55:04.848103,NO_MASK,0,snapshots/NO_MASK_20250827_145458.jpg,clips/NO_MASK_20250827_145458.avi,[],a man with a beard and a camera,
+2025-08-27T14:55:11.017516,NO_MASK,0,snapshots/NO_MASK_20250827_145505.jpg,clips/NO_MASK_20250827_145504.avi,[],a man with a beard and a camera,
+2025-08-27T14:55:17.954830,NO_MASK,0,snapshots/NO_MASK_20250827_145511.jpg,clips/NO_MASK_20250827_145511.avi,[],a man with a beard and a camera,
+2025-08-27T14:55:24.117542,NO_MASK,0,snapshots/NO_MASK_20250827_145518.jpg,clips/NO_MASK_20250827_145518.avi,[],a man is taking a picture of himself,
+2025-08-27T14:55:29.906835,NO_HELMET,0,snapshots/NO_HELMET_20250827_145524.jpg,clips/NO_HELMET_20250827_145524.avi,[],a man with a beard and a camera,
+2025-08-27T15:01:12.160265,NO_MASK,0,snapshots/NO_MASK_20250827_150058.jpg,clips/NO_MASK_20250827_150058.avi,['Unknown'],a man with a beard and a shirt,
+2025-08-27T15:01:19.709565,NO_HELMET,1,snapshots/NO_HELMET_20250827_150112.jpg,clips/NO_HELMET_20250827_150112.avi,[],a man with a beard standing in front of a window,
+2025-08-27T15:01:22.804643,NO_MASK,0,,clips/NO_MASK_20250827_150119.avi,,a man with a beard standing in a room,
+2025-08-27T15:01:25.750812,NO_MASK,0,,clips/NO_MASK_20250827_150122.avi,,a man with a beard standing in a room,
+2025-08-27T15:01:28.678041,NO_MASK,0,,clips/NO_MASK_20250827_150125.avi,,a man with a beard standing in a room,
+2025-08-27T15:01:31.526147,NO_MASK,0,,clips/NO_MASK_20250827_150128.avi,,a man with a beard and a shirt,
+2025-08-27T15:01:34.535757,NO_MASK,0,,clips/NO_MASK_20250827_150131.avi,,a man with a beard standing in front of a window,
+2025-08-27T15:01:37.367504,NO_MASK,0,,clips/NO_MASK_20250827_150134.avi,,a man with a beard standing in front of a window,
+2025-08-27T15:01:40.113382,NO_MASK,0,,clips/NO_MASK_20250827_150137.avi,,a man with a beard standing in front of a window,
+2025-08-27T15:01:42.680225,NO_MASK,0,,clips/NO_MASK_20250827_150140.avi,,a man with a beard standing in a room,
+2025-08-27T15:01:49.254613,NO_MASK,0,snapshots/NO_MASK_20250827_150142.jpg,clips/NO_MASK_20250827_150142.avi,['Unknown'],a man with a beard standing in a room,
+2025-08-27T15:01:55.416495,NO_MASK,1,snapshots/NO_MASK_20250827_150149.jpg,clips/NO_MASK_20250827_150149.avi,[],a man with a beard standing in a room,
+2025-08-27T15:01:58.469164,NO_MASK,0,,clips/NO_MASK_20250827_150155.avi,,a man with a beard standing in a room,
+2025-08-27T15:02:01.322022,NO_MASK,0,,clips/NO_MASK_20250827_150158.avi,,a man with a beard standing in a room,
+2025-08-27T15:02:04.102232,NO_MASK,0,,clips/NO_MASK_20250827_150201.avi,,a man with a beard standing in a room,
+2025-08-27T15:23:45.407807,NO_HELMET,1,snapshots/NO_HELMET_20250827_152334.jpg,clips/NO_HELMET_20250827_152334.avi,[],a man using a piece of wood to cut a piece of wood,
+2025-08-27T15:23:49.100531,NO_HELMET,0,,clips/NO_HELMET_20250827_152345.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:23:52.325818,NO_HELMET,0,,clips/NO_HELMET_20250827_152349.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:23:55.571922,NO_HELMET,0,,clips/NO_HELMET_20250827_152352.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:23:58.760860,NO_HELMET,0,,clips/NO_HELMET_20250827_152355.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:24:02.147887,NO_HELMET,0,,clips/NO_HELMET_20250827_152359.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:24:05.599451,NO_HELMET,0,,clips/NO_HELMET_20250827_152402.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:24:13.349926,NO_HELMET,1,snapshots/NO_HELMET_20250827_152405.jpg,clips/NO_HELMET_20250827_152405.avi,[],a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:24:16.564563,NO_HELMET,0,,clips/NO_HELMET_20250827_152413.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:24:19.941067,NO_HELMET,0,,clips/NO_HELMET_20250827_152416.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:24:22.806832,NO_HELMET,0,,clips/NO_HELMET_20250827_152420.avi,,a man using a planer to cut wood,
+2025-08-27T15:24:30.464885,NO_HELMET,0,,clips/NO_HELMET_20250827_152427.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:24:33.739871,NO_HELMET,0,,clips/NO_HELMET_20250827_152430.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:24:36.611405,NO_HELMET,0,,clips/NO_HELMET_20250827_152433.avi,,a man using a woodworking tool on a table,
+2025-08-27T15:24:44.207262,NO_HELMET,1,snapshots/NO_HELMET_20250827_152436.jpg,clips/NO_HELMET_20250827_152436.avi,[],a man using a woodworking tool on a table,
+2025-08-27T15:24:47.449323,NO_HELMET,0,,clips/NO_HELMET_20250827_152444.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:24:50.718615,NO_HELMET,0,,clips/NO_HELMET_20250827_152447.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:24:53.948601,NO_HELMET,0,,clips/NO_HELMET_20250827_152450.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:24:57.211214,NO_HELMET,0,,clips/NO_HELMET_20250827_152454.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:25:00.505511,NO_HELMET,0,,clips/NO_HELMET_20250827_152457.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:25:03.640559,NO_HELMET,0,,clips/NO_HELMET_20250827_152500.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:25:07.080483,NO_HELMET,0,,clips/NO_HELMET_20250827_152503.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:25:14.476400,NO_HELMET,1,snapshots/NO_HELMET_20250827_152507.jpg,clips/NO_HELMET_20250827_152507.avi,[],a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:25:17.683550,NO_HELMET,0,,clips/NO_HELMET_20250827_152514.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:25:20.848669,NO_HELMET,0,,clips/NO_HELMET_20250827_152517.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:25:24.145252,NO_HELMET,0,,clips/NO_HELMET_20250827_152520.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:25:28.004380,NO_HELMET,0,,clips/NO_HELMET_20250827_152524.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:25:31.316309,NO_HELMET,0,,clips/NO_HELMET_20250827_152528.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:25:35.019860,NO_HELMET,0,,clips/NO_HELMET_20250827_152531.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:25:38.657737,NO_HELMET,0,,clips/NO_HELMET_20250827_152535.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:48:54.685323,NO_HELMET,1,snapshots/NO_HELMET_20250827_154844.jpg,clips/NO_HELMET_20250827_154844.avi,[],a woman is laying on the floor in a room,
+2025-08-27T15:48:58.437644,NO_HELMET,0,,clips/NO_HELMET_20250827_154854.avi,,a woman is sitting on the floor in a room,
+2025-08-27T15:49:05.947649,NO_MASK,0,,clips/NO_MASK_20250827_154858.avi,,a man with a beard sitting at a table,
+2025-08-27T15:49:09.181429,NO_MASK,0,,clips/NO_MASK_20250827_154906.avi,,a man sitting at a table with a laptop,
+2025-08-27T15:49:12.122799,NO_MASK,0,,clips/NO_MASK_20250827_154909.avi,,a man with a beard sitting at a table,
+2025-08-27T15:49:17.467668,NO_MASK,0,,clips/NO_MASK_20250827_154912.avi,,a man with a beard sitting at a table,
+2025-08-27T15:49:27.418538,NO_MASK,1,snapshots/NO_MASK_20250827_154918.jpg,clips/NO_MASK_20250827_154918.avi,[],a man sitting at a table with a laptop,
+2025-08-27T15:52:43.417946,NO_HELMET,1,snapshots/NO_HELMET_20250827_155234.jpg,clips/NO_HELMET_20250827_155234.avi,[],a man using a piece of wood to cut a piece of wood,
+2025-08-27T15:52:46.559215,NO_HELMET,0,,clips/NO_HELMET_20250827_155243.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:52:49.133506,NO_HELMET,0,,clips/NO_HELMET_20250827_155246.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:52:51.926468,NO_HELMET,0,,clips/NO_HELMET_20250827_155249.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:52:54.314347,NO_HELMET,0,,clips/NO_HELMET_20250827_155252.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:52:57.760296,NO_HELMET,0,,clips/NO_HELMET_20250827_155255.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:52:59.825937,NO_HELMET,0,,clips/NO_HELMET_20250827_155257.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:53:01.897620,NO_HELMET,0,,clips/NO_HELMET_20250827_155259.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:53:03.995714,NO_HELMET,0,,clips/NO_HELMET_20250827_155301.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:53:06.143829,NO_HELMET,0,,clips/NO_HELMET_20250827_155304.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:53:10.272102,NO_HELMET,1,snapshots/NO_HELMET_20250827_155306.jpg,clips/NO_HELMET_20250827_155306.avi,[],a man using a planer to cut wood,
+2025-08-27T15:53:15.648934,NO_HELMET,0,,clips/NO_HELMET_20250827_155313.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:53:17.903166,NO_HELMET,0,,clips/NO_HELMET_20250827_155315.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:53:20.002777,NO_HELMET,0,,clips/NO_HELMET_20250827_155317.avi,,a man using a woodworking tool on a table,
+2025-08-27T15:53:22.175883,NO_HELMET,0,,clips/NO_HELMET_20250827_155320.avi,,a man using a woodworking tool on a table,
+2025-08-27T15:53:24.686482,NO_HELMET,0,,clips/NO_HELMET_20250827_155322.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:53:26.882744,NO_HELMET,0,,clips/NO_HELMET_20250827_155324.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T15:53:29.519482,NO_HELMET,0,,clips/NO_HELMET_20250827_155326.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:01:04.779978,NO_HELMET,1,snapshots/NO_HELMET_20250827_160053.jpg,clips/NO_HELMET_20250827_160053.avi,[],a man using a piece of wood to cut a piece of wood,
+2025-08-27T16:01:10.863752,NO_HELMET,0,,clips/NO_HELMET_20250827_160105.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:01:13.417206,NO_HELMET,0,,clips/NO_HELMET_20250827_160110.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:01:16.593742,NO_HELMET,0,,clips/NO_HELMET_20250827_160113.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:01:19.413936,NO_HELMET,0,,clips/NO_HELMET_20250827_160116.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:01:22.401154,NO_HELMET,0,,clips/NO_HELMET_20250827_160119.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:01:25.242224,NO_HELMET,0,,clips/NO_HELMET_20250827_160122.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:01:31.514747,NO_HELMET,1,snapshots/NO_HELMET_20250827_160125.jpg,clips/NO_HELMET_20250827_160125.avi,[],a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:01:33.940429,NO_HELMET,0,,clips/NO_HELMET_20250827_160131.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:01:36.468815,NO_HELMET,0,,clips/NO_HELMET_20250827_160134.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:01:38.520421,NO_HELMET,0,,clips/NO_HELMET_20250827_160136.avi,,a man using a planer to cut wood,
+2025-08-27T16:05:47.532863,NO_HELMET,1,snapshots/NO_HELMET_20250827_160536.jpg,clips/NO_HELMET_20250827_160536.avi,[],a man using a piece of wood to cut a piece of wood,
+2025-08-27T16:05:50.591574,NO_HELMET,0,,clips/NO_HELMET_20250827_160548.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:05:53.389401,NO_HELMET,0,,clips/NO_HELMET_20250827_160550.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:05:56.095253,NO_HELMET,0,,clips/NO_HELMET_20250827_160553.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:05:58.734534,NO_HELMET,0,,clips/NO_HELMET_20250827_160556.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:06:01.503728,NO_HELMET,0,,clips/NO_HELMET_20250827_160558.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:06:04.263589,NO_HELMET,0,,clips/NO_HELMET_20250827_160601.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:06:06.734990,NO_HELMET,0,,clips/NO_HELMET_20250827_160604.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:06:12.847631,NO_HELMET,1,snapshots/NO_HELMET_20250827_160606.jpg,clips/NO_HELMET_20250827_160606.avi,[],a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:06:15.607930,NO_HELMET,0,,clips/NO_HELMET_20250827_160613.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:06:17.747752,NO_HELMET,0,,clips/NO_HELMET_20250827_160615.avi,,a man using a planer to cut wood,
+2025-08-27T16:06:24.045551,NO_HELMET,0,,clips/NO_HELMET_20250827_160621.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:08:49.802339,NO_HELMET,1,snapshots/NO_HELMET_20250827_160841.jpg,clips/NO_HELMET_20250827_160841.avi,[],a man using a piece of wood to cut a piece of wood,
+2025-08-27T16:08:52.688562,NO_HELMET,0,,clips/NO_HELMET_20250827_160849.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:08:55.913476,NO_HELMET,0,,clips/NO_HELMET_20250827_160852.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:08:59.321813,NO_HELMET,0,,clips/NO_HELMET_20250827_160856.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:09:01.846028,NO_HELMET,0,,clips/NO_HELMET_20250827_160859.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:09:04.892520,NO_HELMET,0,,clips/NO_HELMET_20250827_160902.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:09:08.004999,NO_HELMET,0,,clips/NO_HELMET_20250827_160905.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:09:11.339766,NO_HELMET,0,,clips/NO_HELMET_20250827_160908.avi,,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:15:18.604061,NO_HELMET,1,snapshots/NO_HELMET_20250827_161506.jpg,clips/NO_HELMET_20250827_161506.avi,"[""Unknown""]",a man using a piece of wood to cut a piece of wood,
+2025-08-27T16:15:22.793873,NO_HELMET,0,,clips/NO_HELMET_20250827_161519.avi,null,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:15:26.621034,NO_HELMET,0,,clips/NO_HELMET_20250827_161523.avi,null,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:15:29.851239,NO_HELMET,0,,clips/NO_HELMET_20250827_161526.avi,null,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-27T16:25:14.137817,NO_MASK,1,snapshots/NO_MASK_20250827_162502.jpg,clips/NO_MASK_20250827_162502.avi,"[""Unknown"", ""Unknown""]",two men in hard hats,
+2025-08-27T16:25:16.705054,NO_MASK,0,,clips/NO_MASK_20250827_162514.avi,null,two men in hard hats,—~ Ea ho
+2025-08-27T16:25:18.988928,NO_MASK,0,,clips/NO_MASK_20250827_162516.avi,null,two men in hard hats,
+2025-08-27T16:25:21.231983,NO_HELMET,0,,clips/NO_HELMET_20250827_162519.avi,null,two men in hard hats,
+2025-08-27T16:25:23.626663,NO_HELMET,0,,clips/NO_HELMET_20250827_162521.avi,null,two men in hard hats,"ay d
+\
+
+»\
+¥
+
+i
+N
+ae
+
+anf A ALL en
+
+aw a 8"
+2025-08-27T16:25:25.876551,NO_MASK,0,,clips/NO_MASK_20250827_162523.avi,null,two men in hard hats,
+2025-08-27T16:25:28.183238,NO_MASK,0,,clips/NO_MASK_20250827_162525.avi,null,two men in hard hats,
+2025-08-27T16:25:30.646532,NO_MASK,0,,clips/NO_MASK_20250827_162528.avi,null,two men in hard hats,KA\yire——
+2025-08-27T16:25:32.834374,NO_MASK,0,,clips/NO_MASK_20250827_162530.avi,null,two men in hard hats,
+2025-08-27T16:25:41.368042,NO_MASK,1,snapshots/NO_MASK_20250827_162533.jpg,clips/NO_MASK_20250827_162533.avi,"[""Unknown"", ""Unknown""]",two men in hard hats,"|
+
+y, \
+fh mi =
+
+c | — 4"
+2025-08-27T16:25:43.608992,NO_MASK,0,,clips/NO_MASK_20250827_162541.avi,null,two men in hard hats,
+2025-08-27T16:25:46.079730,NO_HELMET,0,,clips/NO_HELMET_20250827_162543.avi,null,two men in hard hats,"NA
+
+q i al
+
+¥"
+2025-08-27T16:25:48.398106,NO_MASK,0,,clips/NO_MASK_20250827_162546.avi,null,two men in hard hats,
+2025-08-27T16:28:32.106579,NO_SAFETY_VEST,1,snapshots/NO_SAFETY_VEST_20250827_162821.jpg,clips/NO_SAFETY_VEST_20250827_162821.avi,"[""Unknown""]",two men are working on a construction site,
+2025-08-27T16:28:34.719890,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_162832.avi,null,two men working on a construction site,"SS a ek. os oe)
+
+Was i... 2 his g
+NN
+
+ox
+|"
+2025-08-27T16:28:37.158507,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_162834.avi,null,a group of men working on a construction site,
+2025-08-27T16:28:39.610939,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_162837.avi,null,two men are working on a construction site,"eee
+
+ae"
+2025-08-27T16:28:42.042763,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_162839.avi,null,a group of men working on a construction site,
+2025-08-27T16:28:44.732929,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_162842.avi,null,a group of men working on a construction site,
+2025-08-27T16:28:47.097594,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_162844.avi,null,two men working on a construction site,
+2025-08-27T16:28:49.610580,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_162847.avi,null,a group of men working on a construction site,"1 ae |) = ia
+
+' if i"
+2025-08-27T16:28:52.189754,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_162849.avi,null,a group of men working on a construction site,"SS SS i
+ee peel
+—- ; =. =i {!
+
+i"
+2025-08-27T16:34:51.446723,NO_SAFETY_VEST,1,snapshots/NO_SAFETY_VEST_20250827_163441.jpg,clips/NO_SAFETY_VEST_20250827_163441.avi,"[""Unknown""]",two men are working on a construction site,
+2025-08-27T16:34:54.090514,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_163451.avi,null,two men working on a construction site,"SS a ek. os oe)
+
+Was i... 2 his g
+NN
+
+ox
+|"
+2025-08-27T16:34:56.591172,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_163454.avi,null,a group of men working on a construction site,
+2025-08-27T16:34:58.868299,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_163456.avi,null,two men are working on a construction site,"eee
+
+ae"
+2025-08-27T16:35:01.591065,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_163458.avi,null,a group of men working on a construction site,
+2025-08-27T16:35:03.951261,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_163501.avi,null,a group of men working on a construction site,
+2025-08-27T16:35:06.350578,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_163504.avi,null,two men working on a construction site,
+2025-08-27T16:35:08.872979,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_163506.avi,null,a group of men working on a construction site,"1 ae |) = ia
+
+' if i"
+2025-08-27T16:35:11.489157,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_163508.avi,null,a group of men working on a construction site,"SS SS i
+ee peel
+—- ; =. =i {!
+
+i"
+2025-08-27T16:35:14.032268,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_163511.avi,null,a group of men working on a construction site,
+2025-08-27T16:35:20.680007,NO_SAFETY_VEST,1,snapshots/NO_SAFETY_VEST_20250827_163514.jpg,clips/NO_SAFETY_VEST_20250827_163514.avi,"[""Unknown""]",a group of men working on a construction site,"I wre wee CERO TS a
+
+— * te (ES 2
+
+UL. as
+
+' ,
+
+' = i ,
+
+: tf 4
+
+' 3
+
+- j ,
+ne
+mai > a. x | r ;
+f ya"
+2025-08-27T16:35:23.139358,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_163520.avi,null,a group of men working on a construction site,
+2025-08-27T16:35:25.636941,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_163523.avi,null,a group of men working on a construction site,
+2025-08-27T16:35:28.170972,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_163525.avi,null,a group of men working on a construction site,
+2025-08-27T16:35:30.748934,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_163528.avi,null,a group of men working on a construction site,"eh we wee. SE SE
+— tte CW en?
+
+cam <
+
+ah WS L|
+
+: a -- fd J
+——— } e
+oe ' — Pe
+l f
+Wyn )
+= . or Ss"
+2025-08-27T16:35:33.845526,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_163530.avi,null,a group of men working on a construction site,"Tae owe -. © = See |!
+
+ES PME
+
+—e_ een
+— , |
+|) oie
+TT ee ag
+———_—————— — - ,
+\ é ’
+pe
+ane
+eS ~ ) :
+; . . or ."
+2025-08-27T16:35:37.257492,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_163533.avi,null,a group of men working on a construction site,"ORT
+
+<--> = See |S)
+i
+
+Saar:
+
+em a Co + ee
+re
+a |
+. ) ‘
+’
+, ' .
+‘ i : -
+- :
+=~ oe” ‘ | 3
+R
+—_ > ."
+2025-08-27T16:35:39.896785,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_163537.avi,null,a group of men working on a construction site,"Bs
+
+——) :
+
+if
+
+Ee, wl:
+tien
+
+. |
+a"
+2025-08-27T16:35:42.280154,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_163540.avi,null,construction workers work on a construction site,"a
+
+: fe op FOE: Bs
+
+6 VS
+
+le
+.
+
+- ‘
+ime t
+if f
+ie ! f
+on \
+
+—= 1 j
+a a i /
+=. vy ’ er"
+2025-08-27T16:35:45.505137,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_163542.avi,null,a group of construction workers working on a construction site,
+2025-08-27T16:42:51.375469,NO_SAFETY_VEST,1,snapshots/NO_SAFETY_VEST_20250827_164240.jpg,clips/NO_SAFETY_VEST_20250827_164240.avi,"[""Unknown""]",a man in a hard hat is working on a solar panel,"Ha sis
+of
+ae
+
+>»
+
+A
+——"
+2025-08-27T16:42:54.728154,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_164251.avi,null,a man in a hard hat is working on a solar panel,"A
+mannan
+[EREEREREEREEEEREURNER
+TH AURRURRRONRN
+Hk AVA
+
+RRS
+
+» —
+
+SRRUURUURENNNENIN —
+= Saar ———"
+2025-08-27T16:42:57.461086,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_164254.avi,null,a man in a hard hat and hard hat working on a solar panel,"mane —
+Pe
+
+To ,
+
+- SeeeSuauauuane
+
+SEUEN
+=o"
+2025-08-27T16:42:59.994092,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_164257.avi,null,a man in a hard hat is working on a solar panel,"SSNS
+FHSS
+__ SRRRRERTE RENNES
+
+—— ———— >"
+2025-08-27T16:43:02.626835,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_164300.avi,null,a man in a hard hat and safety vest working on a solar panel,"SERREERRRRENERENRRKR |
+= =Seeeeuaua wuats ?
+
+——"
+2025-08-27T16:43:05.137707,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_164302.avi,null,a man in a hard hat is working on a solar panel,"=
+RaRRGRANE WAS 2k:
+HES AN
+-=Se2eee VV \\ x=
+
+auatiuannes"
+2025-08-27T16:43:07.801319,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_164305.avi,null,a man in a hard hat is working on a solar panel,"\ a
+= eaeeall NAWAN \\
+
+Sanne aw"
+2025-08-27T16:43:10.217365,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_164307.avi,null,a man on a roof installing solar panels,"fn AAA |
+=ceeunue ww"
+2025-08-27T16:43:16.060584,NO_SAFETY_VEST,1,snapshots/NO_SAFETY_VEST_20250827_164310.jpg,clips/NO_SAFETY_VEST_20250827_164310.avi,"[""Unknown""]",a man in a hard hat is working on a solar panel,
+2025-08-27T16:43:18.521348,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_164316.avi,null,a man in an orange vest is working on a solar panel,
+2025-08-27T16:43:21.039858,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_164318.avi,null,a man in a hard hat and safety vest working on a solar panel,"aE ARAN
+RURRERURAA WARN
+_ 12 SCseawe cen
+EAA
+
+SauaN SAN ="
+2025-08-27T16:43:23.604718,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_164321.avi,null,a man in a hard hat and safety vest working on a solar panel,"San 3 ;
+
+TES
+BURSSEANNANNNN"
+2025-08-27T16:43:26.140362,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_164323.avi,null,a man in a hard hat and safety vest working on a solar panel,"mERBaEe :
+CAA AN
+SEREREREEUC UNG
+= 2aeesoe \
+
+aaa"
+2025-08-27T16:43:28.792513,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_164326.avi,null,a man in a hard hat and safety vest working on a solar panel,eS
+2025-08-27T16:43:31.488496,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_164328.avi,null,a man in a hard hat and safety vest working on a solar panel,
+2025-08-27T16:43:33.902878,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_164331.avi,null,a man in an orange vest working on a roof,"‘EBQROwnUAwe
+aRRSRUNORA
+ee AS
+
+\ —"
+2025-08-27T16:43:36.488937,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_164334.avi,null,a man in an orange vest working on a roof,"RRBRERERR
+SnEeE ~
+=2eee .
+TTS
+SERRRRENRN
+
+~_——_ =
+
+am! \+
+
+aa
+ae"
+2025-08-27T16:43:38.787732,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_164336.avi,null,a man in an orange vest working on a roof,a aan —3
+2025-08-27T16:43:41.290479,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_164338.avi,null,a man in an orange vest working on a roof,"|
+AS"
+2025-08-27T16:43:47.776890,NO_SAFETY_VEST,1,snapshots/NO_SAFETY_VEST_20250827_164341.jpg,clips/NO_SAFETY_VEST_20250827_164341.avi,"[""Unknown""]",a man in an orange vest working on a roof,"Seekauw
+a BERUUEENTN .
+aaaune RRUUNNN ."
+2025-08-27T16:54:19.351321,NO_MASK,1,snapshots/NO_MASK_20250827_165407.jpg,clips/NO_MASK_20250827_165407.avi,"['Unknown', 'Unknown']",two men in hard hats,
+2025-08-27T16:54:21.725961,NO_MASK,0,,clips/NO_MASK_20250827_165419.avi,,two men in hard hats,—~ Ea ho
+2025-08-27T16:54:24.158986,NO_MASK,0,,clips/NO_MASK_20250827_165421.avi,,two men in hard hats,
+2025-08-27T16:54:26.577203,NO_HELMET,0,,clips/NO_HELMET_20250827_165424.avi,,two men in hard hats,
+2025-08-27T16:54:29.325939,NO_HELMET,0,,clips/NO_HELMET_20250827_165426.avi,,two men in hard hats,"ay d
+\
+
+»\
+¥
+
+i
+N
+ae
+
+anf A ALL en
+
+aw a 8"
+2025-08-27T16:54:31.488903,NO_MASK,0,,clips/NO_MASK_20250827_165429.avi,,two men in hard hats,
+2025-08-27T16:54:33.814742,NO_MASK,0,,clips/NO_MASK_20250827_165431.avi,,two men in hard hats,
+2025-08-27T16:54:36.160242,NO_MASK,0,,clips/NO_MASK_20250827_165433.avi,,two men in hard hats,KA\yire——
+2025-08-27T16:54:38.296480,NO_MASK,0,,clips/NO_MASK_20250827_165436.avi,,two men in hard hats,
+2025-08-27T16:55:14.096019,NO_SAFETY_VEST,1,snapshots/NO_SAFETY_VEST_20250827_165507.jpg,clips/NO_SAFETY_VEST_20250827_165507.avi,[],a man in a hard hat is working on a solar panel,"Ha sis
+of
+ae
+
+>»
+
+A
+——"
+2025-08-27T16:55:17.022137,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_165514.avi,,a man in a hard hat is working on a solar panel,"A
+mannan
+[EREEREREEREEEEREURNER
+TH AURRURRRONRN
+Hk AVA
+
+RRS
+
+» —
+
+SRRUURUURENNNENIN —
+= Saar ———"
+2025-08-27T16:55:19.672364,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_165517.avi,,a man in a hard hat and hard hat working on a solar panel,"mane —
+Pe
+
+To ,
+
+- SeeeSuauauuane
+
+SEUEN
+=o"
+2025-08-27T16:55:22.277138,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_165519.avi,,a man in a hard hat is working on a solar panel,"SSNS
+FHSS
+__ SRRRRERTE RENNES
+
+—— ———— >"
+2025-08-27T16:55:24.889788,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_165522.avi,,a man in a hard hat and safety vest working on a solar panel,"SERREERRRRENERENRRKR |
+= =Seeeeuaua wuats ?
+
+——"
+2025-08-27T16:55:27.478293,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_165524.avi,,a man in a hard hat is working on a solar panel,"=
+RaRRGRANE WAS 2k:
+HES AN
+-=Se2eee VV \\ x=
+
+auatiuannes"
+2025-08-27T16:55:29.967651,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_165527.avi,,a man in a hard hat is working on a solar panel,"\ a
+= eaeeall NAWAN \\
+
+Sanne aw"
+2025-08-27T16:55:32.342088,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_165530.avi,,a man on a roof installing solar panels,"fn AAA |
+=ceeunue ww"
+2025-08-27T16:55:34.971903,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_165532.avi,,a man in a hard hat is working on a solar panel,
+2025-08-27T16:55:38.165947,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_165535.avi,,a man in an orange vest is working on a solar panel,
+2025-08-27T16:59:45.070909,NO_SAFETY_VEST,1,snapshots/NO_SAFETY_VEST_20250827_165933.jpg,clips/NO_SAFETY_VEST_20250827_165933.avi,[],a man in a hard hat is working on a solar panel,"Ha sis
+of
+ae
+
+>»
+
+A
+——"
+2025-08-27T16:59:48.563924,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_165945.avi,,a man in a hard hat is working on a solar panel,"A
+mannan
+[EREEREREEREEEEREURNER
+TH AURRURRRONRN
+Hk AVA
+
+RRS
+
+» —
+
+SRRUURUURENNNENIN —
+= Saar ———"
+2025-08-27T16:59:51.489554,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_165948.avi,,a man in a hard hat and hard hat working on a solar panel,"mane —
+Pe
+
+To ,
+
+- SeeeSuauauuane
+
+SEUEN
+=o"
+2025-08-27T16:59:54.299613,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_165951.avi,,a man in a hard hat is working on a solar panel,"SSNS
+FHSS
+__ SRRRRERTE RENNES
+
+—— ———— >"
+2025-08-27T16:59:57.116012,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_165954.avi,,a man in a hard hat and safety vest working on a solar panel,"SERREERRRRENERENRRKR |
+= =Seeeeuaua wuats ?
+
+——"
+2025-08-27T16:59:59.617729,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_165957.avi,,a man in a hard hat is working on a solar panel,"=
+RaRRGRANE WAS 2k:
+HES AN
+-=Se2eee VV \\ x=
+
+auatiuannes"
+2025-08-27T17:00:02.151307,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_165959.avi,,a man in a hard hat is working on a solar panel,"\ a
+= eaeeall NAWAN \\
+
+Sanne aw"
+2025-08-27T17:00:04.453428,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250827_170002.avi,,a man on a roof installing solar panels,"fn AAA |
+=ceeunue ww"
+2025-08-27T17:05:08.292604,NO_MASK,1,snapshots/NO_MASK_20250827_170446.jpg,clips/NO_MASK_20250827_170446.avi,"[""Unknown"", ""Unknown""]",two men in hard hats,
+2025-08-27T17:05:19.611435,NO_MASK,0,,clips/NO_MASK_20250827_170509.avi,null,two men in hard hats,—~ Ea ho
+2025-08-27T17:05:30.793107,NO_MASK,1,snapshots/NO_MASK_20250827_170520.jpg,clips/NO_MASK_20250827_170520.avi,"[""Unknown"", ""Unknown""]",two men in hard hats,"coaih svi — Sh
+4 co e ap _ en = Unknown
+
+. ‘ Unknown
+owt
+
+1"
+2025-08-27T17:05:33.112015,NO_HELMET,0,,clips/NO_HELMET_20250827_170530.avi,null,two men in hard hats,
+2025-08-27T18:31:05.306591,NO_MASK,0,snapshots/NO_MASK_20250827_183047.jpg,clips/NO_MASK_20250827_183047.avi,"[""Unknown"", ""Unknown""]",two men in hard hats,
+2025-08-27T18:31:19.728749,NO_MASK,0,snapshots/NO_MASK_20250827_183105.jpg,clips/NO_MASK_20250827_183105.avi,"[""Unknown"", ""Unknown""]",two men in hard hats,"ae
+
+_>
+
+eae =
+
+\ a)
+
+Unknown
+a =
+) (C <i /
+be"
+2025-08-27T18:31:34.689105,NO_MASK,0,snapshots/NO_MASK_20250827_183120.jpg,clips/NO_MASK_20250827_183120.avi,"[""Unknown"", ""Unknown""]",two men in hard hats,"coaih svi — Sh
+4 co e ap _ en = Unknown
+
+. ‘ Unknown
+owt
+
+1"
+2025-08-27T18:31:49.184996,NO_HELMET,0,snapshots/NO_HELMET_20250827_183134.jpg,clips/NO_HELMET_20250827_183134.avi,"[""Unknown"", ""Unknown""]",two men in hard hats,
+2025-08-27T18:32:03.913380,NO_HELMET,0,snapshots/NO_HELMET_20250827_183149.jpg,clips/NO_HELMET_20250827_183149.avi,"[""Unknown"", ""Unknown""]",two men in hard hats,"\
+\
+|
+|___h
+«
+
+gf See
+eal | af
+on
+
+Go"
+2025-08-27T18:32:18.873888,NO_MASK,0,snapshots/NO_MASK_20250827_183204.jpg,clips/NO_MASK_20250827_183204.avi,"[""Unknown"", ""Unknown""]",two men in hard hats,"Unknown
+
+May,"
+2025-08-28T14:51:03.075082,NO_HELMET,1,snapshots/NO_HELMET_20250828_145054.jpg,clips/NO_HELMET_20250828_145053.avi,[],a man using a piece of wood to cut a piece of wood,
+2025-08-28T14:51:05.638768,NO_HELMET,0,,clips/NO_HELMET_20250828_145103.avi,null,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-28T14:51:08.137645,NO_HELMET,0,,clips/NO_HELMET_20250828_145105.avi,null,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-28T14:51:10.509231,NO_HELMET,0,,clips/NO_HELMET_20250828_145108.avi,null,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-28T14:51:12.958083,NO_HELMET,0,,clips/NO_HELMET_20250828_145110.avi,null,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-28T14:51:15.553558,NO_HELMET,0,,clips/NO_HELMET_20250828_145113.avi,null,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-28T14:51:18.124882,NO_HELMET,0,,clips/NO_HELMET_20250828_145115.avi,null,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-28T14:51:20.648397,NO_HELMET,0,,clips/NO_HELMET_20250828_145118.avi,null,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-28T14:51:23.053921,NO_HELMET,0,,clips/NO_HELMET_20250828_145120.avi,null,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-28T14:51:25.720859,NO_HELMET,0,,clips/NO_HELMET_20250828_145123.avi,null,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-28T14:59:16.740595,NO_HELMET,1,snapshots/NO_HELMET_20250828_145901.jpg,clips/NO_HELMET_20250828_145900.avi,[],a man using a piece of wood to cut a piece of wood,
+2025-08-28T14:59:21.091842,NO_HELMET,0,,clips/NO_HELMET_20250828_145917.avi,null,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-28T14:59:24.648157,NO_HELMET,0,,clips/NO_HELMET_20250828_145921.avi,null,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-28T14:59:28.723468,NO_HELMET,0,,clips/NO_HELMET_20250828_145925.avi,null,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-28T14:59:32.858257,NO_HELMET,0,,clips/NO_HELMET_20250828_145929.avi,null,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-28T14:59:43.386586,NO_HELMET,1,snapshots/NO_HELMET_20250828_145937.jpg,clips/NO_HELMET_20250828_145936.avi,[],a man in a plaid shirt and hat working on a piece of wood,
+2025-08-28T14:59:48.205863,NO_HELMET,0,,clips/NO_HELMET_20250828_145945.avi,null,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-28T14:59:51.981847,NO_HELMET,0,,clips/NO_HELMET_20250828_145949.avi,null,a man in a plaid shirt and hat working on a piece of wood,
+2025-08-28T15:40:32.917419,NO_MASK,1,snapshots/NO_MASK_20250828_154020.jpg,clips/NO_MASK_20250828_154020.avi,"[""Unknown"", ""Unknown""]",two men in hard hats,
+2025-08-28T15:40:35.331549,NO_MASK,0,,clips/NO_MASK_20250828_154033.avi,null,two men in hard hats,—~ Ea ho
+2025-08-28T15:40:37.636373,NO_MASK,0,,clips/NO_MASK_20250828_154035.avi,null,two men in hard hats,
+2025-08-28T15:40:39.880216,NO_HELMET,0,,clips/NO_HELMET_20250828_154037.avi,null,two men in hard hats,
+2025-08-28T15:40:42.171284,NO_HELMET,0,,clips/NO_HELMET_20250828_154039.avi,null,two men in hard hats,"ay d
+\
+
+»\
+¥
+
+i
+N
+ae
+
+anf A ALL en
+
+aw a 8"
+2025-08-28T15:40:44.440461,NO_MASK,0,,clips/NO_MASK_20250828_154042.avi,null,two men in hard hats,
+2025-08-28T15:40:46.710915,NO_MASK,0,,clips/NO_MASK_20250828_154044.avi,null,two men in hard hats,
+2025-08-28T15:40:48.957457,NO_MASK,0,,clips/NO_MASK_20250828_154046.avi,null,two men in hard hats,KA\yire——
+2025-08-28T15:40:51.138378,NO_MASK,0,,clips/NO_MASK_20250828_154049.avi,null,two men in hard hats,
+2025-08-28T15:40:59.438033,NO_MASK,1,snapshots/NO_MASK_20250828_154051.jpg,clips/NO_MASK_20250828_154051.avi,"[""Unknown"", ""Unknown""]",two men in hard hats,"|
+
+y, \
+fh mi =
+
+c | — 4"
+2025-08-29T14:17:37.905760,NO_MASK,1,snapshots/NO_MASK_20250829_141725.jpg,clips/NO_MASK_20250829_141724.avi,"[""Unknown""]",two men are sitting down and talking,
+2025-08-29T14:17:41.759562,NO_MASK,0,,clips/NO_MASK_20250829_141738.avi,null,two men sitting at a table with a laptop,
+2025-08-29T14:17:46.865938,NO_MASK,0,,clips/NO_MASK_20250829_141742.avi,null,two men are standing in a room with a green screen,
+2025-08-29T14:17:51.274767,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250829_141747.avi,null,two men sitting down and talking,
+2025-08-29T14:17:55.173070,NO_MASK,0,,clips/NO_MASK_20250829_141751.avi,null,two men are sitting down and talking,
+2025-08-29T14:18:07.063493,NO_MASK,1,snapshots/NO_MASK_20250829_141757.jpg,clips/NO_MASK_20250829_141756.avi,"[""Unknown""]",two men sitting down and talking,
+2025-08-29T14:18:10.639460,NO_MASK,0,,clips/NO_MASK_20250829_141807.avi,null,two men sitting down and talking,
+2025-08-29T14:18:14.804780,NO_MASK,0,,clips/NO_MASK_20250829_141811.avi,null,two men are sitting down and talking,
+2025-08-29T14:18:18.720916,NO_MASK,0,,clips/NO_MASK_20250829_141815.avi,null,two men sitting down and talking,
+2025-08-29T14:28:04.461906,NO_HELMET,1,snapshots/NO_HELMET_20250829_142755.jpg,clips/NO_HELMET_20250829_142755.mp4,"[""Unknown""]",a man with a beard and a red shirt,
+2025-08-29T14:28:07.663717,NO_HELMET,0,,clips/NO_HELMET_20250829_142805.mp4,null,a man with a beard and a red shirt,
+2025-08-29T14:28:11.061665,NO_MASK,0,,clips/NO_MASK_20250829_142808.mp4,null,a man in a red shirt is standing in an office,
+2025-08-29T14:28:14.489115,NO_HELMET,0,,clips/NO_HELMET_20250829_142811.mp4,null,a man in a red shirt is standing in an office,
+2025-08-29T14:28:18.081767,NO_MASK,0,,clips/NO_MASK_20250829_142815.mp4,null,a man in a red shirt is standing in an office,
+2025-08-29T14:28:21.545720,NO_MASK,0,,clips/NO_MASK_20250829_142818.mp4,null,a man with a beard and a red shirt,
+2025-08-29T14:28:25.231483,NO_MASK,0,,clips/NO_MASK_20250829_142822.mp4,null,a man in a red shirt is standing in an office,
+2025-08-29T14:28:33.859889,NO_MASK,1,snapshots/NO_MASK_20250829_142827.jpg,clips/NO_MASK_20250829_142826.mp4,"[""Unknown""]",a man in a red shirt is standing in an office,
+2025-08-29T14:41:26.286457,NO_MASK,1,snapshots/NO_MASK_20250829_144112.jpg,clips/NO_MASK_20250829_144107.mp4,"[""Unknown""]",two men in hard hats,
+2025-08-29T14:41:33.277064,NO_MASK,0,,clips/NO_MASK_20250829_144130.mp4,null,two men in hard hats,—~ Ea ho
+2025-08-29T14:42:01.573710,NO_MASK,1,snapshots/NO_MASK_20250829_144149.jpg,clips/NO_MASK_20250829_144143.mp4,"[""Unknown""]",two men in hard hats,
+2025-08-29T14:42:09.007412,NO_HELMET,0,,clips/NO_HELMET_20250829_144205.mp4,null,two men in hard hats,
+2025-08-29T14:42:16.735590,NO_HELMET,0,,clips/NO_HELMET_20250829_144213.mp4,null,two men in hard hats,"ay d
+\
+
+»\
+¥
+
+i
+N
+ae
+
+anf A ALL en
+
+aw a 8"
+2025-08-29T14:50:24.183871,NO_MASK,1,snapshots/NO_MASK_20250829_145005.jpg,clips/NO_MASK_20250829_145004.mp4,"[""Unknown""]",a man with a beard and a red shirt,
+2025-08-29T14:50:28.095216,NO_MASK,0,,clips/NO_MASK_20250829_145025.mp4,null,a man with a beard and a red shirt,
+2025-08-29T14:50:31.547282,NO_MASK,0,,clips/NO_MASK_20250829_145028.mp4,null,a man with a beard and a red shirt,
+2025-08-29T14:50:34.889861,NO_MASK,0,,clips/NO_MASK_20250829_145032.mp4,null,a man with a beard and a red shirt,
+2025-08-29T14:50:42.793065,NO_MASK,1,snapshots/NO_MASK_20250829_145036.jpg,clips/NO_MASK_20250829_145036.mp4,"[""Unknown""]",a man with a beard and a red shirt,
+2025-08-29T14:50:46.038368,NO_MASK,0,,clips/NO_MASK_20250829_145043.mp4,null,a man with a beard and a red shirt,
+2025-08-29T14:50:50.296940,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250829_145046.mp4,null,a man with a beard and a red shirt,
+2025-08-29T14:50:53.963225,NO_HELMET,0,,clips/NO_HELMET_20250829_145050.mp4,null,a man with a beard and a red shirt,
+2025-08-29T14:50:57.783250,NO_MASK,0,,clips/NO_MASK_20250829_145054.mp4,null,a man with a beard and a red shirt,
+2025-08-29T14:51:01.823644,NO_MASK,0,,clips/NO_MASK_20250829_145058.mp4,null,a man with a beard and a red shirt,
+2025-08-29T14:51:06.096052,NO_MASK,0,,clips/NO_MASK_20250829_145102.mp4,null,a man with a beard and a red shirt,
+2025-08-29T14:51:15.918566,NO_SAFETY_VEST,1,snapshots/NO_SAFETY_VEST_20250829_145108.jpg,clips/NO_SAFETY_VEST_20250829_145107.mp4,"[""Unknown""]",a man with a beard and a red shirt,
+2025-08-29T14:51:19.615883,NO_HELMET,0,,clips/NO_HELMET_20250829_145116.mp4,null,a man with a beard and a red shirt,
+2025-08-29T14:51:23.401355,NO_MASK,0,,clips/NO_MASK_20250829_145120.mp4,null,a man with a beard and a red shirt,
+2025-08-29T14:51:27.365707,NO_MASK,0,,clips/NO_MASK_20250829_145124.mp4,null,a man with a beard and a red shirt,
+2025-08-29T14:51:31.579017,NO_MASK,0,,clips/NO_MASK_20250829_145128.mp4,null,a man with a beard and a red shirt,
+2025-08-29T14:51:36.336572,NO_MASK,0,,clips/NO_MASK_20250829_145132.mp4,null,a man with a beard and a red shirt,
+2025-08-29T14:51:40.873098,NO_MASK,0,,clips/NO_MASK_20250829_145137.mp4,null,a man with a beard and a red shirt,
+2025-08-29T15:03:02.296314,NO_HELMET,1,snapshots/NO_HELMET_20250829_150255.jpg,clips/NO_HELMET_20250829_150254.mp4,"[""Unknown""]",a man is taking a selfie,
+2025-08-29T15:03:05.839998,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250829_150303.mp4,null,a man with a beard and a red shirt,
+2025-08-29T15:03:09.330836,NO_MASK,0,,clips/NO_MASK_20250829_150306.mp4,null,a man in a red shirt is standing in a room,
+2025-08-29T15:03:12.984269,NO_MASK,0,,clips/NO_MASK_20250829_150309.mp4,null,a man in a red shirt is standing in a room,
+2025-08-29T15:03:16.661151,NO_MASK,0,,clips/NO_MASK_20250829_150313.mp4,null,a man in a red shirt is standing in a room,
+2025-08-29T15:03:20.315438,NO_MASK,0,,clips/NO_MASK_20250829_150317.mp4,null,a man in a red shirt is standing in a room,
+2025-08-29T15:03:23.929671,NO_MASK,0,,clips/NO_MASK_20250829_150320.mp4,null,a man in a red shirt is standing in a room,
+2025-08-29T15:03:32.480142,NO_MASK,1,snapshots/NO_MASK_20250829_150326.jpg,clips/NO_MASK_20250829_150325.mp4,"[""Unknown""]",a man in a red shirt is standing in a room,
+2025-08-29T15:03:35.583629,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250829_150333.mp4,null,a man with a beard standing in a room,
+2025-08-29T15:03:39.016490,NO_MASK,0,,clips/NO_MASK_20250829_150336.mp4,null,a man in a red shirt is standing in a room,
+2025-08-29T15:03:42.675033,NO_MASK,0,,clips/NO_MASK_20250829_150339.mp4,null,a man in a red shirt is standing in a room,
+2025-08-29T15:03:46.048036,NO_HELMET,0,,clips/NO_HELMET_20250829_150343.mp4,null,a man in a red shirt is standing in a room,
+2025-08-29T15:03:49.285115,NO_HELMET,0,,clips/NO_HELMET_20250829_150346.mp4,null,a man with a beard and a red shirt,
+2025-08-29T15:06:55.267763,NO_MASK,1,snapshots/NO_MASK_20250829_150648.jpg,clips/NO_MASK_20250829_150647.mp4,"[""Unknown""]",a man with a beard and a red shirt,
+2025-08-29T15:06:59.083995,NO_MASK,0,,clips/NO_MASK_20250829_150656.mp4,null,a man with a beard and a red shirt,
+2025-08-29T15:07:02.542410,NO_MASK,0,,clips/NO_MASK_20250829_150659.mp4,null,a man with a beard and a red shirt,
+2025-08-29T15:07:05.963711,NO_MASK,0,,clips/NO_MASK_20250829_150703.mp4,null,a man with a beard and a red shirt,
+2025-08-29T15:07:09.156468,NO_MASK,0,,clips/NO_MASK_20250829_150706.mp4,null,a man with a beard and a red shirt,
+2025-08-29T15:07:12.556352,NO_MASK,0,,clips/NO_MASK_20250829_150709.mp4,null,a man with a beard and a red shirt,
+2025-08-29T15:07:16.184656,NO_MASK,0,,clips/NO_MASK_20250829_150713.mp4,null,a man with a beard and a red shirt,
+2025-08-29T15:07:19.813810,NO_MASK,0,,clips/NO_MASK_20250829_150716.mp4,null,a man with a beard and a red shirt,
+2025-08-29T15:07:28.477641,NO_MASK,1,snapshots/NO_MASK_20250829_150721.jpg,clips/NO_MASK_20250829_150721.mp4,"[""Unknown""]",a man with a beard and a red shirt,
+2025-08-29T15:07:32.304545,NO_SAFETY_VEST,0,,clips/NO_SAFETY_VEST_20250829_150728.mp4,null,a man with a beard and a red shirt,
+2025-08-29T15:07:36.014466,NO_MASK,0,,clips/NO_MASK_20250829_150732.mp4,null,a man with a beard and a red shirt,
+2025-08-29T15:07:39.760797,NO_MASK,0,,clips/NO_MASK_20250829_150736.mp4,null,a man with a beard and a red shirt,
+2025-08-29T15:07:43.522788,NO_MASK,0,,clips/NO_MASK_20250829_150740.mp4,null,a man with a beard and a red shirt,
+2025-08-29T15:07:47.580597,NO_MASK,0,,clips/NO_MASK_20250829_150744.mp4,null,a man in a red shirt is sitting down,
+2025-08-29T15:07:51.676891,NO_MASK,0,,clips/NO_MASK_20250829_150748.mp4,null,a man with a beard and a red shirt,
+2025-08-29T15:08:02.255724,NO_MASK,1,snapshots/NO_MASK_20250829_150753.jpg,clips/NO_MASK_20250829_150753.mp4,"[""Unknown""]",a man with a beard and a red shirt,
