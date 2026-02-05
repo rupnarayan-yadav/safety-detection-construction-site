@@ -1,0 +1,47 @@
+<div class="card shadow-sm">
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-hover align-middle">
+                <thead class="table-light">
+                    <tr>
+                        <th>Snapshot</th>
+                        <th>Violation Type</th>
+                        <th>Camera ID</th>
+                        <th>Timestamp</th>
+                        <th>Details</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for alert in alerts %}
+                    <tr class="
+                        {% if alert.violation_type == 'NO_HELMET' %}table-danger{% endif %}
+                        {% if alert.violation_type == 'NO_MASK' or alert.violation_type == 'NO_SAFETY_VEST' %}table-warning{% endif %}
+                    ">
+                        <td>
+                            {% if alert.snapshot %}
+                            <img src="{{ alert.snapshot.url }}" alt="Snapshot" class="img-thumbnail" style="width: 120px; height: auto;">
+                            {% else %}
+                            No Image
+                            {% endif %}
+                        </td>
+                        <td>
+                            <span class="fw-bold">{{ alert.get_violation_type_display }}</span>
+                        </td>
+                        <td>{{ alert.camera_id }}</td>
+                        <td>{{ alert.timestamp|date:"Y-m-d H:i:s" }}</td>
+                        <td>
+                            <a href="{% url 'alert-detail' pk=alert.pk %}" class="btn btn-primary btn-sm">View Details</a>
+                        </td>
+                    </tr>
+                    {% empty %}
+                    <tr>
+                        <td colspan="5" class="text-center py-5">
+                            <h5 class="text-muted">✅ No violations detected yet.</h5>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,51 @@
+{% extends "detector/base.html" %}
+
+{% block title %}Dashboard{% endblock %}
+
+{% block content %}
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h1 class="h2">Live Violation Alerts</h1>
+    <span class="badge bg-secondary" id="refresh-status">Loading...</span>
+</div>
+
+<div id="alert-list-container">
+    <div class="text-center p-5">
+        <div class="spinner-border text-primary" role="status">
+            <span class="visually-hidden">Loading...</span>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+    const alertContainer = document.getElementById('alert-list-container');
+    const statusBadge = document.getElementById('refresh-status');
+
+    async function fetchAlerts() {
+        try {
+            const response = await fetch("{% url 'alert-list-partial' %}");
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            const html = await response.text();
+            alertContainer.innerHTML = html;
+            statusBadge.textContent = `Last updated: ${new Date().toLocaleTimeString()}`;
+            statusBadge.classList.remove('bg-danger');
+            statusBadge.classList.add('bg-success');
+
+        } catch (error) {
+            console.error('Failed to fetch alerts:', error);
+            statusBadge.textContent = 'Error updating';
+            statusBadge.classList.remove('bg-success');
+            statusBadge.classList.add('bg-danger');
+        }
+    }
+
+    // Fetch alerts immediately on page load
+    document.addEventListener('DOMContentLoaded', fetchAlerts);
+
+    // Then fetch them again every 15 seconds
+    setInterval(fetchAlerts, 15000);
+</script>
+{% endblock %}

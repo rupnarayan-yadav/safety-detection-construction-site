@@ -1,0 +1,50 @@
+{% extends "detector/base.html" %}
+
+{% block title %}Alert Details{% endblock %}
+
+{% block content %}
+<a href="{% url 'dashboard' %}" class="btn btn-secondary mb-4">&larr; Back to Dashboard</a>
+
+<div class="card shadow-sm mb-4 violation-border-{{ alert.violation_type }}">
+    <div class="card-header bg-white">
+        <h2 class="h3 mb-0">{{ alert.get_violation_type_display }}</h2>
+        <p class="text-muted mb-0">Detected on {{ alert.timestamp|date:"F j, Y, P" }}</p>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-lg-7">
+                {% if alert.snapshot %}
+                <h4 class="mb-3">Snapshot</h4>
+                <img src="{{ alert.snapshot.url }}" class="img-fluid rounded border mb-4" alt="Violation Snapshot">
+                {% endif %}
+            </div>
+
+            <div class="col-lg-5">
+                <h4 class="mb-3">Metadata</h4>
+                <ul class="list-group">
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        Camera ID
+                        <span class="badge bg-primary rounded-pill">{{ alert.camera_id }}</span>
+                    </li>
+                    <li class="list-group-item">
+                        <strong>People Detected:</strong>
+                        <p class="mb-0 mt-1"><code>{{ alert.people_detected|join:", " }}</code></p>
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Image Caption (AI):</strong>
+                        <p class="fst-italic text-muted mb-0 mt-1">"{{ alert.image_caption }}"</p>
+                    </li>
+                    <li class="list-group-item">
+                        <strong>Detected Text (OCR):</strong>
+                        {% if alert.detected_text %}
+                        <pre class="mb-0 mt-1 p-2 bg-light rounded"><code>{{ alert.detected_text }}</code></pre>
+                        {% else %}
+                        <p class="text-muted mb-0 mt-1">No text found.</p>
+                        {% endif %}
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
